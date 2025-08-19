@@ -15,7 +15,7 @@ How it works
 
 Run locally
 1) install deps:  pip install -r requirements.txt
-2) start app:     streamlit run app/dashboard.py
+2) start app:     python -m streamlit run app/dashboard.py
 
 Repo layout
 - app/dashboard.py     (Streamlit UI)
