@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 
-from app.forecasting import (
+from forecasting import (
     PATHS, RENAME, ENROLL_MAP, EMP_MAP,
     csv_path, load_ts, forecast_series
 )
